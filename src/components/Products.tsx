@@ -17,7 +17,7 @@ export function Products() {
                     text-2xl
                     pb-4
                 ">
-                    Product Select
+                    Our Products
                 </p>
             </div>
         </div>
