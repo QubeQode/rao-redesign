@@ -23,7 +23,7 @@ export function ContactUs() {
                     text-xl
                     pb-3
                 ">
-                    Open 24/7
+                    Everyday: 9am-4am
                 </p>
                 <div className="
                     pb-3

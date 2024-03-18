@@ -10,7 +10,7 @@ export function Hero(dimensions: { width: number, height: number }) {
                 inset-0
                 max-h-[367px]
                 bg-gray-700 
-                opacity-30
+                opacity-60
             "/>
             <div className="
                 absolute
@@ -32,7 +32,7 @@ export function Hero(dimensions: { width: number, height: number }) {
                         text-white
                         text-2xl
                     ">
-                        Open 24/7
+                        Everyday: 9am-4am
                     </p>
                 </div>
                 <div className="
